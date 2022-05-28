@@ -13,5 +13,5 @@ Udacity's Bikeshare Project
 bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you US Bank for paying for this course.
 
