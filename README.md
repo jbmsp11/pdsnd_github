@@ -10,7 +10,7 @@ JB's Bikeshare Project for Udacity
 Udacity's Bikeshare Project
 
 ### Files used
-bikeshare_2.py
+bikeshare_2.py, chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 Thank you US Bank for paying for this course.
