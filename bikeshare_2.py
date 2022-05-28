@@ -96,15 +96,12 @@ def time_stats(df):
         print('Identified the following error: ',e )
 
 
-    #print('The most common month is: ',months[df['month'].mode()[0] - 1].title())
     print('The most common month is: ',cm)
     # display the most common day of week
 
-    #print('The most common day of the week is: ',df['day_of_week'].mode()[0])
     print('The most common day of the week is: ', cd)
 
     # display the most common start hour
-    #print('The most common start hour: ',df['hour'].mode()[0])
     print('The most common start hour: ',csh)
 
     print("\nThis took %s seconds." % (time.time() - start_time))
