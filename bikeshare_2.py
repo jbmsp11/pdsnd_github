@@ -199,6 +199,9 @@ def raw_data(df):
             rd2 = input('Press any key to see more, N to end')
 
 def try_again():
+    """Retry yes/no if the user enters a command that is not recognized."""
+
+    #Collect input from the user to see if they would like to restart
     restart = input('\nWould you like to restart? Enter yes or no.\n')
     if restart.lower() != 'yes' and restart.lower() != 'no':
         print(restart)
