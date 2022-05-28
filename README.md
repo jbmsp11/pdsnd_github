@@ -4,7 +4,7 @@
 May 27,2022
 
 ### Project Title
-JB's Bikeshare Project for Udacity
+JB's Bikeshare Project for Udacity. Coming to the end.
 
 ### Description
 Udacity's Bikeshare Project
